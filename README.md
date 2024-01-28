@@ -1,4 +1,3 @@
 # FaithZantuaPublicRemoteRepo1\
 
-Exercise2
-Changes
+Exercise 2
